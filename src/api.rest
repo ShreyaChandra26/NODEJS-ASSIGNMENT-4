@@ -1,0 +1,13 @@
+GET http://localhost:3000/
+
+###
+POST http://localhost:3000/add?num1=20&num2=20
+
+###
+POST http://localhost:3000/sub?num1=20&num2=20
+
+###
+POST http://localhost:3000/multiply?num1=20&num2=2000000000
+
+###
+POST http://localhost:3000/divide?num1=20&num2=0
